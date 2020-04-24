@@ -6,7 +6,7 @@
     <title>Site teste</title>
 </head>
 <body>
-<p></p>
+
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio voluptatibus vitae aut doloribus porro molestias nesciunt sunt magni nisi doloremque? Iusto magnam ut debitis minima alias, voluptates excepturi optio labore.</p>
 </body>
 </html>
